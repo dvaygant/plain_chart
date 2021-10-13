@@ -3,6 +3,8 @@
 A simple flutter package to create a custom chart
 Support for dragging, scaling, fling.
 
+![funcdataset](https://user-images.githubusercontent.com/91197968/137114639-14c2c23f-6ba9-4d98-94a0-0885503dabb9.png)
+
 ## Features
 
 - Multiple data sets and plot types
